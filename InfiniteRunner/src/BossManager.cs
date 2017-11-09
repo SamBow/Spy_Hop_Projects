@@ -38,10 +38,6 @@ public class BossManager : MonoBehaviour {
 		DontDestroyOnLoad(this.gameObject);
 		Count();
 		Debug.Log(counter);
-
-		/*if(FindObjectsOfType(GetType()).Length > 1) {
-			Destroy(other.gameObject);
-		}*/
 	}
 
 	public int Count() {
