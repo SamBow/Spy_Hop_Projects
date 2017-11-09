@@ -8,24 +8,24 @@
 
 ### Environment Protection
 
-
-![alt text](https://github.com/SamBow/Programming2Projects/blob/master/VirusChampion/Images/Virus1.png "Start Screen")
-![alt text](https://github.com/SamBow/Programming2Projects/blob/master/VirusChampion/Images/Virus2.png "Instructions Screen")
-
-Simulate a white blood cell eliminating the bacteria in order to prevent them from splitting in two and harming the host.  WASD for movement and control.  Mouse to fire.  Mitosis launches a smaller white blood cell at the bacteria, killing on impact.
+Simulate the degradation of the world's oceans as oil tankers spill oil into the ocean. Play as a mythical creature, the kraken, to attempt to stop the destruction of the ocean with the use of a slingshot mechanic. Mouse click and drag to operate slingshot.
 
 Features:
 <ul>
-<li> Vertical Scroller</li>
-<li> Progressively Harder Levels</li>
-<li> Score Counter</li>
-<li> Educational screens on each infection</li>
+<li> Random Generation</li>
+<li> Slingshot</li>
 </ul>
 
-![alt text](https://github.com/SamBow/Programming2Projects/blob/master/VirusChampion/Images/Virus3.png "Gameplay")
-![alt text](https://github.com/SamBow/Programming2Projects/blob/master/VirusChampion/Images/Virus4.png "Game Over")
+Start:
 
-[Source Code](https://github.com/SamBow/Programming2Projects/tree/master/VirusChampion/Code)
+![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/EnvironmentProtection/Images/Ship1.png "Gameplay")
+
+End:
+Once the oil tanker fully lowers it's drill, the ocean begins to progressively fill with oil.
+
+![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/EnvironmentProtection/Images/Ship2.png "Game Over")
+
+[Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/EnvironmentProtection/src)
 
 ### Infinite Runner
 
