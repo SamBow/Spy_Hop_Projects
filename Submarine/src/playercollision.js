@@ -100,7 +100,7 @@ function OnTriggerEnter (other : Collider) {
 		Destroy(other.gameObject);
 	}
 }
-//////not working//////
+
 function OnCollisionEnter (collision : Collision) {
 	var contact: ContactPoint = collision.contacts[0];
 	var rotation = Quaternion.FromToRotation(Vector3.up,contact.normal);
