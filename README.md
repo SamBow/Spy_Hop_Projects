@@ -12,7 +12,7 @@ Simulate the degradation of the world's oceans as oil tankers spill oil into the
 
 Features:
 <ul>
-<li> Random Generation</li>
+<li> Random Enemy Generation</li>
 <li> Slingshot</li>
 </ul>
 
@@ -29,25 +29,21 @@ Once the oil tanker fully lowers it's drill, the ocean begins to progressively f
 
 ### Infinite Runner
 
-A collection of two different displays for simulating a population of cockroaches.
+This game is focused on the prevention of bullying and promotes taking action to help end bullying. Space bar to interact with level. Mouse click to interact with buttons.
 
-The first class, RoachPopulationViewer, displays an interactive GUI to modify and change the values of the population of
-roaches.  It also has an exterminator come every 10 seconds to kill 10% of the population
+Features:
+<ul>
+<li> Random Level Generation</li>
+<li> Time Slider</li>
+</ul>
 
-GUI
+A bully "enenmy" chases the player until the player is caught by the bully, or the level ends.
 
-![alt text](https://github.com/SamBow/Programming2Projects/blob/master/RoachPopulation/Images/RoachViewerStart.png)
+![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/InfiniteRunner/Images/Gameplay1.png)
 
-The second class, Roaches,  visualizes the growth of a roach population over a timeframe of 10 generations.  A timer waits
-1/2 of a second before either doubling the population or killing a portion of the population.  The simulation lasts 10 seconds.
+Once a level is completed, the user is given an option to avoide resolving the bullying, or to seek help.
 
-Start:
-
-![alt text](https://github.com/SamBow/Programming2Projects/blob/master/RoachPopulation/Images/RoachesPartial.png)
-
-End:
-
-![alt text](https://github.com/SamBow/Programming2Projects/blob/master/RoachPopulation/Images/RoachesFinal.png)
+![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/InfiniteRunner/Images/Bully2.png)
 
 Repo [here](https://github.com/SamBow/Programming2Projects/tree/master/RoachPopulation)
 
@@ -63,7 +59,7 @@ This interactive console application stores the current world population in mill
 
 ![alt text](https://github.com/SamBow/Programming2Projects/blob/master/WorldPopulation/Images/EndScreen.png "Display")
 
-Repo [here](https://github.com/SamBow/Programming2Projects/tree/master/WorldPopulation)
+[Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/InfiniteRunner)
 
 ### Math Shooter
 This class reads terrain values and a water level value and determines which terrain will be above the water or flooded.
