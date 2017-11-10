@@ -78,19 +78,20 @@ Game becomes progressively more difficult as enemy ships are added to the game s
 Repo [here](https://github.com/SamBow/Spy_Hop_Projects/tree/master/Submarine)
 
 ### Math Shooter
-This class reads terrain values and a water level value and determines which terrain will be above the water or flooded.
 
-A Map is randomly generated with terrain of different altitudes.
+This game focuses on teaching basic mathematics through an interactive world with enemies and rapid decision making. WASD to move. Space bar to shoot.
 
-![alt text](https://github.com/SamBow/Programming2Projects/blob/master/FloodMap/Images/FloodMapAlt.png "Display")
+User is presented with three possible solutions to preset a math problem. User must decide which lane contains the correct answer to continue.
 
-The map is then slowly flooded in increments of 10 until it is full.
+![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/MathShooter/Images/Math1.png "Display")
 
-![alt text](https://github.com/SamBow/Programming2Projects/blob/master/FloodMap/Images/FloodMapPartial.png "Partial")
+Once the user has successfully answered every question in a level, they continue to the next level by destroying the boss.
 
-![alt text](https://github.com/SamBow/Programming2Projects/blob/master/FloodMap/Images/FloodMapFull.png "Display")
+![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/MathShooter/Images/Math3.png "Display")
 
-Repo [here](https://github.com/SamBow/Programming2Projects/tree/master/FloodMap)
+[Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/MathShooter/src)
+
+Repo [here](https://github.com/SamBow/Spy_Hop_Projects/tree/master/MathShooter)
 
 <footer>
     		<ul>
