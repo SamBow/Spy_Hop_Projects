@@ -26,6 +26,7 @@ Once the oil tanker fully lowers it's drill, the ocean begins to progressively f
 ![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/EnvironmentProtection/Images/Ship2.png "Game Over")
 
 [Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/EnvironmentProtection/src)
+
 Repo [here](https://github.com/SamBow/Spy_Hop_Projects/tree/master/EnvironmentProtection)
 
 ### Infinite Runner
@@ -50,6 +51,7 @@ Once a level is completed, the user is given an option to avoide resolving the b
 If the player chooses to seek help, they win the game. Otherwise, the player will continue to run from the bully.
 
 [Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/InfiniteRunner)
+
 Repo [here](https://github.com/SamBow/Spy_Hop_Projects/tree/master/InfiniteRunner)
 
 ### Submarine
@@ -72,6 +74,7 @@ Game becomes progressively more difficult as enemy ships are added to the game s
 ![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/Submarine/Images/Sub2.png "Display")
 
 [Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/Submarine/src)
+
 Repo [here](https://github.com/SamBow/Spy_Hop_Projects/tree/master/Submarine)
 
 ### Math Shooter
