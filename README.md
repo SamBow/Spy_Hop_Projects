@@ -26,6 +26,7 @@ Once the oil tanker fully lowers it's drill, the ocean begins to progressively f
 ![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/EnvironmentProtection/Images/Ship2.png "Game Over")
 
 [Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/EnvironmentProtection/src)
+Repo [here](https://github.com/SamBow/Spy_Hop_Projects/tree/master/EnvironmentProtection)
 
 ### Infinite Runner
 
@@ -35,9 +36,10 @@ Features:
 <ul>
 <li> Random Level Generation</li>
 <li> Time Slider</li>
+<li> Buttons</li>
 </ul>
 
-A bully "enenmy" chases the player until the player is caught by the bully, or the level ends.
+A bully "enemy" chases the player until the player is caught by the bully, or the level ends.
 
 ![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/InfiniteRunner/Images/Gameplay1.png)
 
@@ -48,20 +50,29 @@ Once a level is completed, the user is given an option to avoide resolving the b
 If the player chooses to seek help, they win the game. Otherwise, the player will continue to run from the bully.
 
 [Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/InfiniteRunner)
+Repo [here](https://github.com/SamBow/Spy_Hop_Projects/tree/master/InfiniteRunner)
 
 ### Submarine
 
-This program This program simulates the population of earth every fifty years
-during either a time of peace or during a zombie apocalypse with the user
-playing as God.
+This game simulates what it was like for a WW2 submarine to navigate mine fields and shows how historical events can influence game movements. Submarine interacts with mines, health pickups, and enenmy ships. Click to shoot. WASD to move.
 
-![alt text](https://github.com/SamBow/Programming2Projects/blob/master/WorldPopulation/Images/WorldPopScreen.png "Display")
+Features:
+<ul>
+<li> Progressivly Harder</li>
+<li> 2.5D</li>
+<li> Buttons</li>
+</ul>
 
-This interactive console application stores the current world population in millions and then asks the user if it is a zombie apocalpyse or a time of peace.  The population is then changed accordingly.
+GUI:
 
-![alt text](https://github.com/SamBow/Programming2Projects/blob/master/WorldPopulation/Images/EndScreen.png "Display")
+![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/Submarine/Images/Sub1.png "Display")
 
-[Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/InfiniteRunner)
+Game becomes progressively more difficult as enemy ships are added to the game scene.
+
+![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/Submarine/Images/Sub2.png "Display")
+
+[Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/Submarine/src)
+Repo [here](https://github.com/SamBow/Spy_Hop_Projects/tree/master/Submarine)
 
 ### Math Shooter
 This class reads terrain values and a water level value and determines which terrain will be above the water or flooded.
