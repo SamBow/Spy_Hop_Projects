@@ -45,6 +45,8 @@ Once a level is completed, the user is given an option to avoide resolving the b
 
 ![alt text](https://github.com/SamBow/Spy_Hop_Projects/blob/master/InfiniteRunner/Images/Bully2.png)
 
+If the player chooses to seek help, they win the game. Otherwise, the player will continue to run from the bully.
+
 [Source Code](https://github.com/SamBow/Spy_Hop_Projects/tree/master/InfiniteRunner)
 
 ### Submarine
